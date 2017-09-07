@@ -1,0 +1,33 @@
+body {background-color: aquamarine}
+    p.dotted {border-style: dotted;}
+    p.dashed {border-style: dashed;}
+    p.solid {border-style: solid;}
+    p.double {border-style: double;}
+    p.groove {border-style: groove;}
+
+p.dotted {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+    outline: 5px dotted red;
+    outline-color: red;
+    outline-style: double;
+     outline-width: 100px;
+    text-decoration: overline;
+    direction: ltr;
+    text-shadow: 3px 2px red;
+}
+}
+
+body {
+    margin: 100px 150px 100px 80px;
+}
