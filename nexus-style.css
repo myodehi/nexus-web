@@ -5,6 +5,11 @@ body {background-color: aquamarine}
     p.double {border-style: double;}
     p.groove {border-style: groove;}
 
+.new {
+    border: 2px white dotted;
+    color: #ffffff
+
+}
 p.dotted {
     margin-top: 100px;
     margin-bottom: 100px;
